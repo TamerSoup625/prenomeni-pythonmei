@@ -1,4 +1,6 @@
-Questo è il file README di __Pythonmei__, libreria per l'estensione linguistica Python, sviluppata da Pythonmei Uniti e riconosciuta ufficialmente dai Prenomeni Uniti
+# Pythonmei
+
+Questa è __Pythonmei__, libreria per l'estensione linguistica Python, sviluppata da Pythonmei Uniti e riconosciuta ufficialmente dai Prenomeni Uniti
 
 In questo momento la libreria è in via di sviluppo, non sono disponbili funzionalità linguistiche come i gli avverbi, i complementi indiretti, o la costruzione di periodi.
 Se questa libreria verrà utilizzata da più persone, potrebbe venire fuori un aggiornamento. Ditemi cosa ne pensate :)
